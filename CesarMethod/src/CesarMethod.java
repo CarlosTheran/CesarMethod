@@ -12,9 +12,9 @@ public class CesarMethod {
 		 char option;
 		 String text;
 		 
-		// System.out.println("1. Dicoding test.");
-		// System.out.println("2. Encoding test.");
-		 //option = sc.nextInt();
+		 System.out.println("1. Dicoding test.");
+		 System.out.println("2. Encoding test.");
+		 option = (char) sc.nextInt();
 		 
 		 
 		 
